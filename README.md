@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sammykruze
 - 👀 I’m interested in software development
-- 🌱 I’m currently in love javaScript
+- 🌱 I’m currently in love java
 - 💞️ I’m looking to collaborate with anyone
 - 📫 you can reach via  my email samuelkunle215@gmail.com 
 
